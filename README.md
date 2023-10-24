@@ -2,7 +2,7 @@
 <h3 align="center">I'm a self-taught developer with ♥️ with over 9 years of experience</h3>
  
 <p align="center">
-    『 23yrs 』
+    『 24yrs 』
     『 he/him 』
 </p>
 
