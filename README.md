@@ -14,7 +14,7 @@
 Since I work a lot in a team, most of the projects I'm working on are here:
 - 🔖 [My Projects](https://github.com/BeastLe9enD?tab=repositories)
 - 🐫 [ProjectKML](https://github.com/ProjectKML)
-- 🦊 [KarmaKrafts](https://git.karmakrafts.dev/)
+- 🦊 [KarmaKrafts](https://github.com/KarmaKrafts)
 
 Hopefully you've found something that fits your interests.
 <div align="center">
