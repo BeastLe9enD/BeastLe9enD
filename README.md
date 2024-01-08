@@ -22,7 +22,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=BeastLe9enD&theme=dark&hide_border=true&background=DD272700" alt="beastle9end" />
 </p>
 
-My projects a mainly on the [ProjectKML](https://github.com/ProjectKML) I'm owning together with @zmarlon, but you can also check out some of my projects here:
+My projects a mainly on the [ProjectKML](https://github.com/ProjectKML) organization I'm owning together with my bro @zmarlon, but you can also check out some of my projects here:
 - 🔖 [My Projects](https://github.com/BeastLe9enD?tab=repositories)
 - 🐫 [ProjectKML](https://github.com/ProjectKML)
 - 🦊 [KarmaKrafts](https://github.com/KarmaKrafts)
