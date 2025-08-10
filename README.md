@@ -3,7 +3,6 @@
  
 <p align="center">
     『 25yrs 』
-    『 he/him 』
 </p>
 
 <div align="center">
