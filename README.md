@@ -2,7 +2,7 @@
 <h3 align="center">I'm a self-taught software engineer with ♥️ with 10 years of experience 😉</h3>
  
 <p align="center">
-    『 25yrs 』
+    『 26yrs 』
 </p>
 
 <div align="center">
